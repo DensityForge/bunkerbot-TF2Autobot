@@ -6,7 +6,7 @@ Maker of bunkerbot and of these notes: donkeybrains#1504.
 
 ## Reach us
 
-donkeybrains#1504 — cointiplication@gmail.com — [trade offer](https://steamcommunity.com/tradeoffer/new/?partner=691756854&token=EEH2ayer)
+donkeybrains#1504 — densityforge@gmail.com — [trade offer](https://steamcommunity.com/tradeoffer/new/?partner=691756854&token=EEH2ayer)
 
 ## Credit
 
@@ -30,6 +30,6 @@ The code and the notes in this folder are Creative Commons Attribution-NonCommer
 
 You may copy, study, change, and share this code and these notes. If you share them, credit bunkerbot (donkeybrains#1504) and keep this license with the copy.
 
-If you want to sell this code, or run it as a paid service, email cointiplication@gmail.com. We can agree to that in writing.
+If you want to sell this code, or run it as a paid service, email densityforge@gmail.com. We can agree to that in writing.
 
 Fair use, fair dealing, and any other copyright exception already allowed by law are not changed by this license.

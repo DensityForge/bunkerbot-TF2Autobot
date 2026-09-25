@@ -14,7 +14,7 @@ This folder cannot be started as a bot. It is also not a patch you can drop onto
 
 | | |
 |---|---|
-| bunkerbot | donkeybrains#1504, cointiplication@gmail.com, [trade offer](https://steamcommunity.com/tradeoffer/new/?partner=691756854&token=EEH2ayer) |
+| bunkerbot | donkeybrains#1504, densityforge@gmail.com, [trade offer](https://steamcommunity.com/tradeoffer/new/?partner=691756854&token=EEH2ayer) |
 | TF2Autobot | IdiNium, https://github.com/TF2Autobot/tf2autobot |
 | TF2Autobot license | MIT, copyright 2020–2022 TF2Autobot/IdiNium |
 | This package | Creative Commons Attribution-NonCommercial 4.0 International. The text is in `LICENSE` and `NOTICE.md`. |
@@ -55,4 +55,4 @@ We read more of the TF2Autobot design than we kept. The list is in [What we read
 
 ## License
 
-You may take the ideas here and build your own system, in your own code. This code and these notes belong to bunkerbot, under Creative Commons Attribution-NonCommercial 4.0 International. If you share them, credit bunkerbot (donkeybrains#1504) and keep the license with the copy. TF2Autobot is not an author of this code. The TF2Autobot repository stays under the MIT license, and nothing in this folder changes that. If you want to sell this code, or run it as a paid service, email cointiplication@gmail.com. We can agree to that in writing.
+You may take the ideas here and build your own system, in your own code. This code and these notes belong to bunkerbot, under Creative Commons Attribution-NonCommercial 4.0 International. If you share them, credit bunkerbot (donkeybrains#1504) and keep the license with the copy. TF2Autobot is not an author of this code. The TF2Autobot repository stays under the MIT license, and nothing in this folder changes that. If you want to sell this code, or run it as a paid service, email densityforge@gmail.com. We can agree to that in writing.
